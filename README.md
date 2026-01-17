@@ -1,4 +1,4 @@
-# Sales-Performance-Dashboard
+## Sales-Performance-Dashboard
 
 Sales Performance Dashboard (Excel):
 - Project Objective To analyze sales data and create an interactive Excel dashboard using pivot tables, charts, and slicers.
